@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/luandang.github.io/static/css/main.2dd08bd3.chunk.css",
+    "main.js": "/luandang.github.io/static/js/main.9a9adb89.chunk.js",
+    "main.js.map": "/luandang.github.io/static/js/main.9a9adb89.chunk.js.map",
+    "runtime-main.js": "/luandang.github.io/static/js/runtime-main.ceaeaed3.js",
+    "runtime-main.js.map": "/luandang.github.io/static/js/runtime-main.ceaeaed3.js.map",
+    "static/js/2.b62a9a89.chunk.js": "/luandang.github.io/static/js/2.b62a9a89.chunk.js",
+    "static/js/2.b62a9a89.chunk.js.map": "/luandang.github.io/static/js/2.b62a9a89.chunk.js.map",
+    "index.html": "/luandang.github.io/index.html",
+    "static/css/main.2dd08bd3.chunk.css.map": "/luandang.github.io/static/css/main.2dd08bd3.chunk.css.map",
+    "static/js/2.b62a9a89.chunk.js.LICENSE.txt": "/luandang.github.io/static/js/2.b62a9a89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceaeaed3.js",
+    "static/js/2.b62a9a89.chunk.js",
+    "static/css/main.2dd08bd3.chunk.css",
+    "static/js/main.9a9adb89.chunk.js"
+  ]
+}
